@@ -1,4 +1,4 @@
-# Decoding the Deck: Leveraging Computer Simulations to Optimize Blackjack Profitability
+# Decoding the Deck: Leveraging Computer Simulations to Optimize Blackjack Profitability 🃏
 Analysis of Blackjack Simulation to determine the optimal play strategies. Contain a written report, code, and data.
 
 ## :bar_chart: Result: 
