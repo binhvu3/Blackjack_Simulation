@@ -1,4 +1,4 @@
-# :game_die: Blackjack-simulation ♠️
+# :game_die: Unleashing the Winning Hand: Maximizing Profit with Advanced Blackjack Strategies ♠️
 Analysis of Blackjack Simulation to determine the optimal play strategies. Contain a written report, code, and data.
 
 ## :bar_chart: Result: 
